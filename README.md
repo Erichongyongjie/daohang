@@ -10,13 +10,13 @@ QQ群交流：794714355
 
 注意⚠️：所有项目均为开源项目，没有任何Pro版本或专业版本！
 
-![](https://github.com/Erichongyongjie/daohang/blob/master/jietu.png)
+![](https://github.com/Erichongyongjie/daohang/blob/master/assets/img/jietu.png)
 
 这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
 
 声明
 ===
-由原作者[5iux](https://github.com/5iux/5iux.github.io/)进行开发，本项目尊重原作者劳动成果实现盈利，但不鼓励任何盗用 **5iux** 名义盈利的行为。
+由原作者[5iux](https://github.com/5iux/5iux.github.io/)进行开发，图标基于[iconfont](https://www.iconfont.cn/) ，本项目尊重原作者劳动成果实现盈利，但不鼓励任何盗用 **5iux** 名义盈利的行为。
 
 ![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/webstack_no_pro.png)
 
@@ -42,6 +42,13 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 
 ```index.html``` 这里网站的入口文件
 
+```cn/about.html``` 这里“关于”的入口文件
+
+```assets/css/xxx``` 这里“关于”的css文件（不包含导航网站css文件）
+
+```assets/js/xxx``` 这里“关于”的js文件（不包含导航网站js文件）
+
+```assets/img/xxx``` 这里“关于”的图片文件（不包含导航网站图片）
 
 ## License
 
